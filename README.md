@@ -57,9 +57,17 @@ To identify Key Performance Paramenters of Nursing and to study how each nursing
 
 *MAP OF COUNT DITRIBUTION OF FACILITIES ACROSS USA*
 ![Screenshot](fac_count.png)
->>Intreactive Plot<< is avaiable here https://plot.ly/~adas4/1/
+>>Intreactive Plot<< is available here https://plot.ly/~adas4/1/
 
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~adas4/1.embed"></iframe>
+*GRAPH TO VISUALIZE DEPENDENCIES OF MULITPLE KPIs WITH RESPECT TO EACH OTHER
+![Screenshot](corr_matrix.png)
+>>Interactive Plot<< is available here https://plot.ly/~adas4/3/
+
+Interesting insight- although many KPIs show positive correlation with each other, there are few KPIs like resident frequency to go to hospital shows negative correlation with rest of KPIs--- which is desirable-- if not the case then so then it might indicative of poor care.
+
+
+Detailed coding and insights are presented in file here https://github.com/singh-sona/Nursing-Home-KPI-comparision/blob/master/Nursing_Home%20Comparison.ipynb
+
 
 
 
