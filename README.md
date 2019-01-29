@@ -55,6 +55,7 @@ To identify Key Performance Paramenters of Nursing and to study how each nursing
 5. Removed columns with high value points for ease of visualization
 6. Performed Exploratory Data Analysis and gathered insights as follows:
 
+![Screenshot](fac_count.png)
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~adas4/1.embed"></iframe>
 
 
