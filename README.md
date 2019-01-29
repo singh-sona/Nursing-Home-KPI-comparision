@@ -60,7 +60,7 @@ To identify Key Performance Paramenters of Nursing and to study how each nursing
 >>Intreactive Plot<< is available here https://plot.ly/~adas4/1/
 
 *GRAPH TO VISUALIZE DEPENDENCIES OF MULITPLE KPIs WITH RESPECT TO EACH OTHER
-![Screenshot](corr_matrix.png)
+![Screenshot](corr_graph.png)
 >>Interactive Plot<< is available here https://plot.ly/~adas4/3/
 
 Interesting insight- although many KPIs show positive correlation with each other, there are few KPIs like resident frequency to go to hospital shows negative correlation with rest of KPIs--- which is desirable-- if not the case then so then it might indicative of poor care.
